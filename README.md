@@ -9,7 +9,7 @@
 <p>
   Hi 👋, I'm Pedro! A passionate Programming student from Brazil.
 
-  - 🌱 I’m currently studying Data Science <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 I’m currently studying Python <img align="center" alt="html5" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F9443%2Flogo-python&psig=AOvVaw3zB3I3C_UQH1oucOl8Emn0&ust=1727265913445000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjy-IrF24gDFQAAAAAdAAAAABAE" />
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with Games and AI.
 </p>

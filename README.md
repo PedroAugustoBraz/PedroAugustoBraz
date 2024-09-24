@@ -2,14 +2,15 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
-    Uma linguagem não faz seu código ser bom, programadores bons fazem seu código ser bom. 
+    Nós sofremos mais na nossa mente que na realidade <br>
+    -Sêneca
 </div>
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Pedro! A passionate Programming student from Brazil.
+  Hi 👋, I'm Pedro! A passionate programming student from Brazil.
 
-  - 🌱 I’m currently studying Python <img align="center" alt="html5" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F9443%2Flogo-python&psig=AOvVaw3zB3I3C_UQH1oucOl8Emn0&ust=1727265913445000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjy-IrF24gDFQAAAAAdAAAAABAE" />
+  - 🌱 I’m currently studying Python, HTML and CSS! <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="Imagem">
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with Games and AI.
 </p>
@@ -30,7 +31,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com)
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=profanselmoflorentino&show_icons=true&theme=gotham)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroAugustoBraz&show_icons=true&theme=gotham)
 
 <!-- Portfolio -->
 ## Portfolio:

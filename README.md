@@ -10,7 +10,7 @@
 <p>
   Hi 👋, I'm Pedro! A passionate programming student from Brazil.
 
-  - 🌱 I’m currently studying Python, HTML and CSS! <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="Imagem">
+  - 🌱 I’m currently studying JavaScript, HTML, CSS and PHP! <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="Imagem">
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with Games and AI.
 </p>
@@ -19,7 +19,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 15 years old, currently living in Brazil. I have fluency in English.
+  - 💬 I am 18 years old, currently living in Brazil. I have basic fluency in English.
 
   - ⚡ I enjoy playing instruments, whether it's a guitar, trumpet, or piano, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>

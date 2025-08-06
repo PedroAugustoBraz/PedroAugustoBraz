@@ -19,7 +19,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 18 years old, currently living in Brazil. I have basic fluency in English.
+  - 💬 I am 16 years old, currently living in Brazil. I have basic fluency in English.
 
   - ⚡ I enjoy playing instruments, whether it's a guitar, trumpet, or piano, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
